@@ -67,9 +67,3 @@ JavaScript is a scripting language used to create and control dynamic website an
 *Chapter 1*
 
 A script is a set of instructions that a computer follows to excecute certain goal.
-
-
-
-
-
-
