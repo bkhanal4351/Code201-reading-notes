@@ -17,4 +17,18 @@ h1 { color: yellow; margin-left: 50px; } </style>
 3. Inline CSS An inline style is used to apply a unique style for a single element.
 
 
+**Chapter 2: “Basic JavaScript Instructions”**
+
+Script are set of instructions that performs a given task when called upon.
+Variables stores assigned values which can later be used in a Script.
+In JavaScript numbers are 0-9, any text or any values within a quotation is a string and true/flase are Boolean values.
+
+**Chapter 4: “Decisions and Loops” only up to the section on switch statements**
+
+Loops evaluated a situation by using comparison operators and returns true or false. In a given situation there is atleast one operator and two operands. Operands are the values we are evaluating and operator is what compares the operands. For example 5 > 2. Here 5 and 2 are operands and > is the comparison operator.
+
+
+
+
+
 
