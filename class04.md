@@ -1,7 +1,7 @@
 **Ch.4 “Links”**
 
 a LInk or Hyperlink is used to create a source to jump from one page to another. Links in HTML are crated using <a> tag. An example is : 
-<a href="https://github.com/bkhanal4351/Code201-reading-notes/blob/main/class03.md">Jon's Hobbies</a>
+<a href="https://github.com/bkhanal4351/Code201-reading-notes/blob/main/class03.md"</a>
 
 **Chapter 15: “Layout”**
 
@@ -55,4 +55,4 @@ function propmtUserForInput(whichPrompt) {
 
  propmtUserForInput();
 
- 
+
