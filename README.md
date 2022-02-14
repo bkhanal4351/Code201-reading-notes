@@ -9,4 +9,4 @@
 
 5. [Class 5](https://github.com/bkhanal4351/Code201-reading-notes/blob/main/class05.md)
 
-6. [Class 6]()
+6. [Class 6](https://github.com/bkhanal4351/Code201-reading-notes/blob/main/class06.md)
