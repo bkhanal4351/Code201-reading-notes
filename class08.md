@@ -1,1 +1,1 @@
-repeat of class 4 reading so link to class 4 here [Class 4]([Class 4](https://github.com/bkhanal4351/Code201-reading-notes/blob/main/class04.md)
+repeat of class 4 reading so link to class 4 here [Class 4](https://github.com/bkhanal4351/Code201-reading-notes/blob/main/class04.md)
