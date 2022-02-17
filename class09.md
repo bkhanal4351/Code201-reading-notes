@@ -1,5 +1,6 @@
 **Chapter 7: “Forms”**
-Form is an Element <form> that stores all the information from a user input in html. Information in a form is set in name/value pairs.
+
+Form is an Element that stores all the information from a user input in html. Information in a form is set in name/value pairs.
 
 A name is given to each form and values are the information user inputs which are then sent to servers.
 
