@@ -16,3 +16,5 @@
 8. [Class 8](https://github.com/bkhanal4351/Code201-reading-notes/blob/main/class08.md)
 
 9. [Class 9](https://github.com/bkhanal4351/Code201-reading-notes/blob/main/class09.md)
+
+10. [Class 10](https://github.com/bkhanal4351/Code201-reading-notes/blob/main/class10.md)
