@@ -1,4 +1,5 @@
-**Ch. 15, “Layout”**
+**Duckett HTML/CSS book: Ch. 15, “Layout”Ch. 15, “Layout”**
+
 
 Css Layout allows us to take elements and modify them as needed.
 
